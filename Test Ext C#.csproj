@@ -1,0 +1,23 @@
+<Project Sdk="Godot.NET.Sdk/3.2.3">
+  <PropertyGroup>
+    <TargetFramework>net472</TargetFramework>
+    <RootNamespace>TestExtC</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+  <!--
+  <PackageReference Include="Newtonsoft.Json" Version="13.0.1-beta1" />
+    -->
+
+  <PackageReference Include="Ink.Engine.Runtime-Unofficial" Version="1.0.0-nightly-21022223" />
+  <Reference Include="Newtonsoft.Json">
+    <Private>False</Private>
+    <HintPath>$(ProjectDir)/lib/Newtonsoft.Json.dll</HintPath>
+  </Reference>
+  <!--
+  <Reference Include="Ink.Runtime">
+    <Private>False</Private>
+    <HintPath>$(ProjectDir)/lib/ink-engine-runtime.dll</HintPath>
+  </Reference>
+  -->
+  </ItemGroup>
+</Project>

@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tom_b\\Documents\\Godot\\TestExtC#\\Test Ext C#.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tom_b\\Documents\\Godot\\TestExtC#\\Test Ext C#.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tom_b\\Documents\\Godot\\TestExtC#\\Test Ext C#.csproj",
+        "projectName": "Test Ext C#",
+        "projectPath": "C:\\Users\\tom_b\\Documents\\Godot\\TestExtC#\\Test Ext C#.csproj",
+        "packagesPath": "C:\\Users\\tom_b\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tom_b\\Documents\\Godot\\TestExtC#\\.mono\\temp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tom_b\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Ink.Engine.Runtime-Unofficial": {
+              "target": "Package",
+              "version": "[1.0.0-nightly-21022223, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

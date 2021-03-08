@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KYERoKuJB45SIOP5TxLbp34NWisyqoOirFcG+tpuoVkZnwQ1fnIpcZKN1K4D2o/mG9CGl6vVzMIf3fraFlDYJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tom_b\\Documents\\Godot\\TestExtC#\\Test Ext C#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tom_b\\.nuget\\packages\\ink.engine.runtime-unofficial\\1.0.0-nightly-21022223\\ink.engine.runtime-unofficial.1.0.0-nightly-21022223.nupkg.sha512"
+  ],
+  "logs": []
+}

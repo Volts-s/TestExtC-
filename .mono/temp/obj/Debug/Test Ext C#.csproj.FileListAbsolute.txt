@@ -1,0 +1,10 @@
+C:\Users\tom_b\Documents\Godot\TestExtC#\.mono\temp\bin\Debug\Test Ext C#.dll
+C:\Users\tom_b\Documents\Godot\TestExtC#\.mono\temp\bin\Debug\Test Ext C#.pdb
+C:\Users\tom_b\Documents\Godot\TestExtC#\.mono\temp\obj\Debug\Test Ext C#.csprojAssemblyReference.cache
+C:\Users\tom_b\Documents\Godot\TestExtC#\.mono\temp\obj\Debug\Test Ext C#.AssemblyInfoInputs.cache
+C:\Users\tom_b\Documents\Godot\TestExtC#\.mono\temp\obj\Debug\Test Ext C#.AssemblyInfo.cs
+C:\Users\tom_b\Documents\Godot\TestExtC#\.mono\temp\obj\Debug\Test Ext C#.csproj.CoreCompileInputs.cache
+C:\Users\tom_b\Documents\Godot\TestExtC#\.mono\temp\obj\Debug\Test Ext C#.dll
+C:\Users\tom_b\Documents\Godot\TestExtC#\.mono\temp\obj\Debug\Test Ext C#.pdb
+C:\Users\tom_b\Documents\Godot\TestExtC#\.mono\temp\bin\Debug\ink-engine-runtime.dll
+C:\Users\tom_b\Documents\Godot\TestExtC#\.mono\temp\obj\Debug\Test Ext C#.csproj.CopyComplete
